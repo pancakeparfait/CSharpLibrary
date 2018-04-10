@@ -25,24 +25,29 @@ namespace _0._07_Methods
                 Console.WriteLine("He doesn't appear wealthy.");
             }
         }
+
         public string GetCustomer()
         {
             return FirstName + LastName;
         }
+
         public int GetAge()
         {
             return Age;
         }
+
         public bool GetWealthStatus()
         {
             return AppearWealthy;
         }
+
         //Parameters
         public string PostInterest(string interest)
         {
-            var message = FirstName + "appears interested in a " + interest;
+            var message = FirstName + " appears interested in a " + interest;
             return message;
         }
+
         public int PostID(int id)
         {
             var idString = FirstName + " is number " + id;

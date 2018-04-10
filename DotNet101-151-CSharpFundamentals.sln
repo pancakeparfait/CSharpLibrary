@@ -165,6 +165,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_Collections_Sets", "0.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Methods_UnitTests", "0.07_Methods_UnitTests\0.07_Methods_UnitTests.csproj", "{639C8383-ECAA-4A06-A371-8FC12F211064}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Constructors_base_UnitTests", "0.09_Constructors_base_UnitTests\0.09_Constructors_base_UnitTests.csproj", "{D9DCB385-5821-49EC-854E-DD9812121E03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -495,6 +497,10 @@ Global
 		{639C8383-ECAA-4A06-A371-8FC12F211064}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{639C8383-ECAA-4A06-A371-8FC12F211064}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{639C8383-ECAA-4A06-A371-8FC12F211064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9DCB385-5821-49EC-854E-DD9812121E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DCB385-5821-49EC-854E-DD9812121E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DCB385-5821-49EC-854E-DD9812121E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DCB385-5821-49EC-854E-DD9812121E03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
